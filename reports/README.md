@@ -9,7 +9,7 @@ The work focuses on applying data analytics techniques to real-world scenarios, 
 
 ## Module Information
 - **Programme:** MSc Data Analytics & IT Security Management  
-- **Module:** [MODULE NAME]  
+- **Module:** Data Design  
 - **Institution:** Arden University  
 - **Academic Year:** 2024–2025  
 - **Assessment Type:** Report / Essay / Case Study / Portfolio  
