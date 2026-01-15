@@ -56,13 +56,13 @@ The objectives of this module assignment were to:
 
 ## Project Structure
 
-msc-[Data Design]/
-├── data/ # Dataset(s) or data description
-├── notebooks/ # Python / analysis notebooks (if applicable)
-├── reports/ # Assessed academic reports (PDF)
-├── outputs/ # Charts, tables, statistical outputs
-├── assets/ # Screenshots or figures used in analysis
-└── README.md
+**msc-data-design/**
+- **data/** – Survey dataset (CSV / Excel) or data description  
+- **notebooks/** – Python or analytical notebooks used for exploration and analysis (where applicable)  
+- **reports/** – Assessed academic submissions, including the Data Design essay and report (PDF)  
+- **outputs/** – Charts, tables, and statistical results generated during the analysis  
+- **assets/** – Screenshots of surveys, figures, and visual materials referenced in the report  
+- **README.md** – Project documentation and overview
 
 
 ---
