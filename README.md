@@ -1,6 +1,6 @@
 # Data Design – Customer Behaviour Analysis (Tesco Case Study)
 
-This repository contains my MSc Data Design project for Arden University (Module: DAT7003), where I designed, prepared and analysed real customer survey data to support business decision-making.
+This repository contains my Data Design case study, where I designed, prepared and analysed real customer survey data to support business decision-making.
 
 The objective was to determine whether staff interaction influences customer purchasing behaviour at Tesco using statistical and data-driven methods.
 
